@@ -1,0 +1,15 @@
+/Users/prabasadhikari/Desktop/DotNet/Projects/UnderstandingDelegate/bin/Debug/net7.0/UnderstandingDelegate
+/Users/prabasadhikari/Desktop/DotNet/Projects/UnderstandingDelegate/bin/Debug/net7.0/UnderstandingDelegate.deps.json
+/Users/prabasadhikari/Desktop/DotNet/Projects/UnderstandingDelegate/bin/Debug/net7.0/UnderstandingDelegate.runtimeconfig.json
+/Users/prabasadhikari/Desktop/DotNet/Projects/UnderstandingDelegate/bin/Debug/net7.0/UnderstandingDelegate.dll
+/Users/prabasadhikari/Desktop/DotNet/Projects/UnderstandingDelegate/bin/Debug/net7.0/UnderstandingDelegate.pdb
+/Users/prabasadhikari/Desktop/DotNet/Projects/UnderstandingDelegate/obj/Debug/net7.0/UnderstandingDelegate.csproj.AssemblyReference.cache
+/Users/prabasadhikari/Desktop/DotNet/Projects/UnderstandingDelegate/obj/Debug/net7.0/UnderstandingDelegate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prabasadhikari/Desktop/DotNet/Projects/UnderstandingDelegate/obj/Debug/net7.0/UnderstandingDelegate.AssemblyInfoInputs.cache
+/Users/prabasadhikari/Desktop/DotNet/Projects/UnderstandingDelegate/obj/Debug/net7.0/UnderstandingDelegate.AssemblyInfo.cs
+/Users/prabasadhikari/Desktop/DotNet/Projects/UnderstandingDelegate/obj/Debug/net7.0/UnderstandingDelegate.csproj.CoreCompileInputs.cache
+/Users/prabasadhikari/Desktop/DotNet/Projects/UnderstandingDelegate/obj/Debug/net7.0/UnderstandingDelegate.dll
+/Users/prabasadhikari/Desktop/DotNet/Projects/UnderstandingDelegate/obj/Debug/net7.0/refint/UnderstandingDelegate.dll
+/Users/prabasadhikari/Desktop/DotNet/Projects/UnderstandingDelegate/obj/Debug/net7.0/UnderstandingDelegate.pdb
+/Users/prabasadhikari/Desktop/DotNet/Projects/UnderstandingDelegate/obj/Debug/net7.0/UnderstandingDelegate.genruntimeconfig.cache
+/Users/prabasadhikari/Desktop/DotNet/Projects/UnderstandingDelegate/obj/Debug/net7.0/ref/UnderstandingDelegate.dll
